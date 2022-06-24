@@ -30,7 +30,7 @@ Esta aplicação tem o intuíto de apresentar respostas às perguntas realizadas
 Para rodar localmente o projeto, clone o projeto utilizando o seguinte comando:
 
 ```
-git clone ###
+git clone https://github.com/AndreNavarro/Revelando-seu-destino.git
 ```
 
 Utilizando a IDE: Visual Studio Code, baixe a extensão ```Live Server```, instalando e ativando esta extensão, o navegador padrão abrirá automaticamente com a aplicação rodando. 
