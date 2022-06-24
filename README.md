@@ -1,13 +1,7 @@
-<table>
-    <tr>
-        <td>
-			<img src="assets/images/blue-cristal-ball.png" width="70px"/>
-		</td>
-        <td>
-            <h1 align="center"><b>Revelando seu Destino</b></h1>
-        </td>
-    </tr>
-</table>
+<h1 align="center">
+    <img src="assets/images/blue-cristal-ball.png" width="70px"/>
+    <b>Revelando seu Destino</b>
+</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
